@@ -16,9 +16,8 @@ Prova prática do Processo Seletivo  01317/2021  para o cargo de Pesquisador I -
 
 
 # Exercício 3
- - https://docs.google.com/document/d/1Maq6P9-dK13g0xLHH_dPQoAWz1rNk4nsmxqYE0AqBGM/edit?usp=sharing
 
- - Nos notebooks também tem algumas informações sobre os códigos;
+ - Os notebooks contém algumas informações sobre os códigos;
 
 # Exercício 4
 
